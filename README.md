@@ -1,99 +1,157 @@
+<!--
+  ⚠️ BEFORE PUBLISHING: replace every "imurari13" placeholder check below is done for you (your real handle),
+  but you still need to fill in LinkedIn / portfolio / email near the bottom, and run the snake workflow once
+  (Actions tab → Generate Snake Animation → Run workflow) or that one image stays broken.
+-->
+
 <div align="center">
 
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:8A63D2,100:2ED3B7&height=260&section=header&text=Hey,%20I'm%20Murari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hey%2C%20I'm%20YOUR%20NAME%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Professional%20Bug%20Creator&descAlignY=60&descSize=20" width="100%"/>
-
-<!-- ═══════════════════════════ TYPING ═══════════════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%9A;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
+<a href="https://github.com/imurari13">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&width=600&lines=Building+full-stack+products;Java+%2B+Spring+Boot+%2B+React;Shipping+real+systems%2C+not+demos;Currently+deep+in+DSA+%26+System+Design" />
 </a>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════ BADGES ═══════════════════════════ -->
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=36BCF7&labelColor=0f2027)](https://github.com/YOUR_USERNAME?tab=followers)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=36BCF7&labelColor=0f2027)](https://github.com/YOUR_USERNAME?tab=repositories)
+<img src="https://komarev.com/ghpvc/?username=imurari13&label=Profile+Views&color=8A63D2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/imurari13?label=Followers&style=for-the-badge&color=2ED3B7" />
+<img src="https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-8A63D2?style=for-the-badge" />
 
 </div>
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<br>
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+Final-year CSE student who spends his free time shipping full-stack side projects — not tutorials, actual systems with real architecture decisions. Java's home base, but I move across Spring Boot, Android, React and Node depending on what the problem needs. Building toward a senior engineering seat at a product company.
 
-```typescript
-const me = {
-  name:       "Your Name",
-  location:   "Planet Earth 🌍",
-  role:       "Software Engineer",
-  currently:  "Building things that (mostly) work",
-  learning:   ["Rust", "System Design", "AI/ML"],
-  funFact:    "I debug faster with lo-fi beats 🎧",
-  askMeAbout: ["web dev", "open source", "coffee"],
-  motto:      "Ship it. Fix it. Ship it again.",
-};
-🔭 Currently working on: your-coolest-project
-🌱 Learning: something new every single day
-💬 Ask me about: literally anything tech
-⚡ Fun fact: I've committed more bugs than features, and I'm proud
-📫 Reach me: you@email.com
-<br clear="right"/><!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-🛠️ Tech Arsenal
+<br>
+
+## ⚡ Tech Arsenal
+
 <div align="center">
-Languages
-JavaScript
-TypeScript
-Python
-Go
-Rust
 
-Frontend
-React
-Next.js
-Tailwind
-Vue
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,vite,tailwind,js,androidstudio,mongodb,mysql,redis,postgres,git,figma,postman&theme=dark&perline=8" />
 
-Backend & Data
-Node.js
-PostgreSQL
-MongoDB
-Redis
-GraphQL
+</div>
 
-DevOps & Tools
-Docker
-Kubernetes
-AWS
-Git
-Linux
+<br>
 
-</div><!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-📊 GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&count_private=true&include_all_commits=true" height="180" alt="stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&langs_count=8" height="180" alt="languages"/><br/><img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
-<br/><br/>
+## 📊 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" width="95%" alt="activity graph"/>
-<br/><br/>
-
-<!-- Trophies --><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/></div><!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
-🚀 Featured Projects
-<div align="center"><a href="https://github.com/YOUR_USERNAME/PROJECT_ONE"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" /> </a> <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" /> </a> <a href="https://github.com/YOUR_USERNAME/PROJECT_THREE"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" /> </a> <a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" /> </a></div><!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-🐍 Contribution Snake
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"> </picture> </div><!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
-💭 Dev Quote of the Day
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/> </div><!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-🤝 Let's Connect
 <div align="center">
-LinkedIn
-Twitter
-Portfolio
-Email
-Discord
-Buy Me A Coffee
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=imurari13&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=2ED3B7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imurari13&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=c9d1d9" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imurari13&theme=radical&hide_border=true&background=0d1117&stroke=8A63D2&ring=2ED3B7&fire=2ED3B7&currStreakLabel=c9d1d9" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imurari13&theme=react-dark&hide_border=true&bg_color=0d1117&color=2ED3B7&line=8A63D2&point=ffffff" width="95%"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/imurari13/imurari13/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+<sub>Renders once the `snake.yml` workflow has run at least once — check the Actions tab if this box looks empty.</sub>
+
+<br>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 HireHub
+Full-stack job portal — dark-green glassmorphism UI, Three.js torus hero, ships with a mock-data/live-API toggle.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 CipherChat
+Full-stack end-to-end encrypted chat app — JWT auth with rotating refresh tokens, real-time messaging over WebSocket/STOMP.
+
+![Java](https://img.shields.io/badge/-Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📧 MarcMail
+Email marketing/campaign platform — DB-backed send queue (pending → processing → sent → failed) with retry counts.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Sasi Medicals
+Healthcare e-commerce ecosystem — Android ordering app + MERN storefront + in-progress doctor-booking platform with Razorpay.
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Retrofit](https://img.shields.io/badge/-Retrofit2-3DDC84?style=flat-square&logo=square&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📦 More builds — Delta Rev Tech, Portfolio Site</b></summary>
+<br>
+
+**Delta Rev Tech** — EdTech Android app: Firebase Auth, Google Sign-In, a Gemini Pro chatbot, QR scanning, MVVM. Passed a real APK audit that caught build-config issues before release.
+
+**Portfolio Site** — React + Vite + Tailwind + Three.js + Framer Motion, anchored by a custom "Stack Monolith" 3D hero.
+
+</details>
+
+<br>
+
+## 🎯 Currently
+
+<div align="center">
+
+![](https://img.shields.io/badge/Learning-Java%20DSA-8A63D2?style=for-the-badge)
+![](https://img.shields.io/badge/Learning-System%20Design-2ED3B7?style=for-the-badge)
+![](https://img.shields.io/badge/Building-CipherChat%20E2EE-8A63D2?style=for-the-badge)
+![](https://img.shields.io/badge/Finishing-B.Tech%20CSE%20'26-2ED3B7?style=for-the-badge)
+
+</div>
+
+<br>
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/imurari13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-2ED3B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-8A63D2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<sub>Replace the four `#` links above with your real LinkedIn, portfolio and mailto: URL.</sub>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ED3B7,100:8A63D2&height=150&section=footer&animation=twinkling" width="100%"/>
